@@ -146,10 +146,10 @@ function reset() {
 
 .control-button {
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 32px;
   cursor: pointer;
-  border: 1px solid #938461;
-  border-radius: 4px;
+  border: 2px solid #938461;
+  border-radius: 8px;
   background-color: #736f9a;
   color: #ffffff;
 }
